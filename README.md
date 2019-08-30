@@ -4,6 +4,7 @@
 
 In pairs:
 
+|  |  |
 | ------ | ------ |
 | 1 | decide on a business Idea (2mins)
 | 2 | Start sketching your landing Page
