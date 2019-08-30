@@ -27,10 +27,27 @@ In pairs:
 
 |  |  |
 | ------ | ------ |
+|  | HTML: https://htmlreference.io/
+|  | CSS: https://cssreference.io
+|  | Flexbox: https://cssreference.io
+|  | Boostrap CSS libraries: https://getbootstrap.com/docs
+|  | Slides: https://www.slideshare.net/paalringstad/html-css-le-wagon-bootcamp
+
+
+**Design Ressources**
+
+|  |  |
+| ------ | ------ |
 |  | Icons: https://thenounproject.com/
 |  | Icons: https://nucleoapp.com/premium-icons/
 |  | Colors: http://colorhunt.co
 |  | Colors: https://coolors.co
 |  | Fonts: https://fonts.google.com
 |  | Text Icons: https://fontawesome.com
+|  | Layout: https://spec.fm/specifics/8-pt-grid
+|  | Stock Images: https://unsplash.com/
+
+
+
+
 
