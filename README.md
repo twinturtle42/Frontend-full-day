@@ -47,6 +47,16 @@ In pairs:
 |  | Layout: https://spec.fm/specifics/8-pt-grid
 |  | Stock Images: https://unsplash.com/
 
+**Design Inspiration**
+
+|  |  |
+| ------ | ------ |
+|  | Icons: https://dribbble.com/arthur-littm/buckets/1030911-Open-Component-Challenge
+
+
+
+
+
 
 
 
