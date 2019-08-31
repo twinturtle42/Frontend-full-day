@@ -13,6 +13,11 @@ In pairs:
 | 5 | Start addding your CSS
 | 6 | End of the Day, deploy your website on https://www.netlify.com/
 
+|  |  |
+| ------ | ------ |
+| 1 | Homework, copy these components: https://dribbble.com/arthur-littm/buckets/1030911-Open-Component-Challenge 
+| 2 | OR just on Dribble: https://dribbble.com/
+
 <br/>
 <br/>
 
