@@ -13,6 +13,16 @@ In pairs:
 | 5 | Start addding your CSS
 | 6 | End of the Day, deploy your website on https://www.netlify.com/
 
+Or just copy this website: https://www.podandparcel.com.au/
+
+|  |  |
+| ------ | ------ |
+| 1 | Start sketching how the page looks like
+| 2 | Start adding the HTML
+| 3 | Put your HTML elements inside divs <div></divs>
+| 4 | Start addding your CSS
+| 5 | End of the Day, deploy your website on https://www.netlify.com/
+
 |  |  |
 | ------ | ------ |
 | 1 | Homework, copy these components: https://dribbble.com/arthur-littm/buckets/1030911-Open-Component-Challenge 
