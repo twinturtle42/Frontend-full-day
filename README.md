@@ -44,9 +44,7 @@ Or just copy this website: https://www.podandparcel.com.au/
 | ------ | ------ |
 |  | <h1></h1> , <h2></h2>, <h3></h3>
 |  | <p></p>
-|  | <ul>
-      <li></li>
-    </ul>
+|  | <ul><li></li></ul>
 |  | <a></a>
 |  | <div></div>
 |  | </img>
