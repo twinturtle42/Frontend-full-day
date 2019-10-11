@@ -38,16 +38,26 @@ Or just copy this website: https://www.podandparcel.com.au/
 | 1 | download a text Editor >> [Sublime Text](https://www.sublimetext.com/)).
 | 2 | Have Google Chrome instaled
 
-**Most Common HTML Elements/Tags and CSS properties
+**Most Common HTML Elements
 
 |  |  |
 | ------ | ------ |
-|  | <!--- <h1></h1> , <h2></h2>, <h3></h3> -->
-|  | <p></p>
-|  | <ul><li></li></ul>
-|  | <a></a>
-|  | <div></div>
-|  | </img>
+|  | h1, h2, h3
+|  | p
+|  | ul with several li 
+|  | a
+|  | div
+|  | img
+
+**Most Common CSS properties
+
+|  |  |
+| ------ | ------ |
+|  | font-family, font-size, font-weigth, text-decoration, text-align, 
+|  | color, background-color
+|  | margin, padding, borders, border-radius, box-shadow, width, height,
+|  | background-image, background-size
+|  | display: flex, justify-content, align-items
 
 **Ressources**
 
